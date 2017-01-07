@@ -1,5 +1,6 @@
 # 升降级考核类UpDownNum,up_num:返回当前职级和升级数，up_down:d返回当前职级和降级数
 # add commit 
+# add commit2
 
 class UpDownNum:
     def __init__(self, pos_list, up_list, down_list, position, score):
